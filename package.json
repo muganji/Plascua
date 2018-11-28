@@ -1,0 +1,19 @@
+{
+  "name": "plascua",
+  "version": "1.0.0",
+  "description": "Library for providing support for continuous user authentication in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo/\"Error:no test specified\\\" && exit 1\""
+  },
+  "keywords": [
+    "Keystrokes",
+    "Mouse",
+    "dynamics",
+    "Continuous",
+    "authentication",
+    "Abstraction"
+  ],
+  "author": "Julius Muganji & Dr. Engineer Bainomugisha",
+  "license": "UNLICENSED"
+}
